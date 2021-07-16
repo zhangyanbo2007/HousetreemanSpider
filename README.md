@@ -22,3 +22,5 @@
 * 工程导入
     1. 点击导入即可，导入刚才生成的`XML`格式数据即可，之前没有标注完可以接着标注。如图所示:
         ![avatar](resources/工程导入.png)
+* 标注结果示例
+参见`data/result/sougou_treeman_result/annotation_with_color_but_grey`
