@@ -49,7 +49,7 @@ print('===start=== at:', time_stamp.strftime('%Y.%m.%d-%H:%M:%S'))
 
 # 循环爬取，每次100张，共10000次
 getSogouImag(path='data/sougou_treeman_0701',
-             keyword="房树人",
+             keyword="baidu_treeman",
              page_num=100000,
              per_page_num=100)
 
